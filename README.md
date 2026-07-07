@@ -1,6 +1,6 @@
 ## flutter_ecommerce_app 
 
-E-Commerce app is a design implementaion of [E-commerce App](https://dribbble.com/shots/10446127-E-commerce-App-Exploration/attachments/2283107?mode=media) designed by Hrud Raj Singh
+E-Commerce app is a design build by Hrud Raj Singh
 
 
 ## Download App ![GitHub All Releases](https://img.shields.io/github/downloads/Thealphamerc/flutter_ecommerce_app/total?color=green)
